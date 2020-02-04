@@ -1,0 +1,2 @@
+language = "javascript"
+run = "/arrays/twosum.js"
